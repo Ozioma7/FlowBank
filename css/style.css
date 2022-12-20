@@ -1,0 +1,72 @@
+body{
+    background-color: #040504;
+    color: #0CF07E;
+    overflow:hidden;
+    margin: 0 10px 0 10px;
+}
+
+header .heading{
+    float: left;
+}
+
+header h1{
+    float: left;
+    display: inline;
+    clear: both;
+    font-size: 55px;
+    font-style: italic;
+}
+
+.lines{
+    float: right;
+}
+
+div {
+    width: 35px;
+    height: 3px;
+    background-color: #f4f4f4;
+    margin: 6px 0;
+  }
+
+  #writeUp{
+    clear: both;
+    padding-top: 50px;
+    font-size: 50px;
+    float: left;
+    display: inline;
+  }
+
+  #trade{
+    float: left;
+  }
+
+  #free{
+    color: #f4f4f4;
+    font-size: 20px;
+  }
+
+  #open{
+    background-color: #0CF07E;
+    color: #040504;
+    border-radius: 40px;
+    padding: 10px 15px 10px 15px;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  #more{
+    background-color: black;
+    color: #f4f4f4;
+    border-radius: 40px;
+    border-color: #C1C6C1;
+    border-width: 2px;
+    padding: 10px 15px 10px 15px;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  img{
+    float: right;
+    margin-left: 150px;
+  }
+  
